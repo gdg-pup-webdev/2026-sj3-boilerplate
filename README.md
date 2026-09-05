@@ -5,6 +5,7 @@ Welcome to the React.js Study Jam. React is an open-source JavaScript library fr
 ## Table of Contents
 
 - [About](#about)
+- [Start here](#start-here)
 - [Why React](#why-react)
 - [What you will learn](#what-you-will-learn)
 - [Prerequisites](#prerequisites)
@@ -15,6 +16,12 @@ Welcome to the React.js Study Jam. React is an open-source JavaScript library fr
 ## About
 
 This Study Jam is designed to take you from "Hello World" to building functional, stateful applications with React. Use this boilerplate as the starting point for the session exercises.
+
+## Start here
+
+- **Humans:** this README, then [docs/state.md](docs/state.md)
+- **Agents:** [AGENTS.md](AGENTS.md) (state → index → FLAGS)
+- **Contributors:** table below
 
 ## Why React
 
@@ -65,10 +72,12 @@ npm start
 
 ## Contributors
 
-This project is made possible by the GDG PUP community:
+This project is made possible by the GDG PUP community.
 
-| Role | Name |
-| --- | --- |
-| Development | Allen Kyle Ramos |
-| Development | hanji-exe |
-| Development | strawberryprince |
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Carlos Jerico Dela Torre](https://www.linkedin.com/in/delatorrecj) | Chief Technology Officer (2025-2026) | [@delatorrecj](https://github.com/delatorrecj) |
+| [Strawberry Balasbas](https://www.linkedin.com/in/strawberrypink) | Technical Documentations Officer | [@moonintaurus](https://github.com/moonintaurus) |
+| Allen Kyle Ramos | Development |  |
+| hanji-exe | Development |  |
+
